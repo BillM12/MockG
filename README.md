@@ -1,0 +1,4 @@
+MockG
+=====
+
+Glib in Mock
